@@ -1,1 +1,5 @@
 echo "hello this a test file"
+
+echo "entr your name"
+read a
+ done  by msob
